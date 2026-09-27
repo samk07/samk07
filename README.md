@@ -14,37 +14,63 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-## Hi, This is Sree Sameer Kumtamukkula 👋
+## Hi, I’m Sree Sameer Kumtamukkula 👋
 
-**Data Engineer** @ DLR · Materials Science → AI/MLOps · Germany 🇩🇪
+**Data Engineer | Research Software Engineer**
+Materials Science → Data Engineering & AI/MLOps · Germany 🇩🇪
 
-- 🔬 5+ years building production-grade AI & MLOps systems, bridging materials science research and software engineering
-- ⚙️ **Data & ML:** Python, SQL, Pandas, PySpark, TensorFlow, scikit-learn, SHAP, Grad-CAM
-- 🤖 **LLM/RAG:** LangChain, ChromaDB, FastAPI, prompt engineering
-- 🚀 **MLOps/DevOps:** MLflow, Airflow, Docker, dbt, Kubernetes, GitLab CI/CD, Terraform
-- ☁️ **Cloud:** Azure,AWS, Azure Data Factory, Azure Databricks, Azure ML Studio, 
-- 🗄️ **Databases:** PostgreSQL, MongoDB, MySQL
-- 🖥️ **Apps:** Streamlit, FastAPI
+I build data pipelines, reproducible ML workflows, and AI-powered research tools.
+My background combines materials science, scientific computing, and software
+engineering, with experience at DLR, ICAMS, and Infosys.
 
-**📈 Highlights**
-- OPtimise ETL processing time **35%** at DLR
-- Reduced 3D microstructure design-iteration time **65%** using GANs/VAEs
-- Automated simulation setup, saving **30%+** manual time at ICAMS
+Currently, I’m completing the **Data Engineering Bootcamp at neue fische**
+and working with **AWS for data engineering**.
 
-**🌱 Interests**
-Agentic AI · reliable & explainable ML · generative AI · materials informatics · scalable data engineering
+### 🛠️ Skills & Tools
 
-**🎓 Education**
-Data Engineering Bootcamp, Neue Fische
-M.Sc. Materials Science & Simulation, Ruhr University Bochum
+- **Programming:** Python, SQL, Bash, R, C++, JavaScript
+- **Data Processing:** Pandas, NumPy, PySpark, dbt
+- **Machine Learning:** TensorFlow, scikit-learn, SHAP, Grad-CAM
+- **LLMs & RAG:** LangChain, ChromaDB, prompt engineering
+- **MLOps & Orchestration:** MLflow, Airflow
+- **DevOps:** Git, Docker, Kubernetes, Terraform, GitLab CI/CD, Azure DevOps
+- **Cloud:** AWS, Azure, Azure Data Factory, Azure Databricks, Azure ML Studio
+- **Databases:** PostgreSQL, MongoDB, MySQL
+- **Apps & APIs:** Streamlit, FastAPI, Flask
+- **Analysis & Scientific Tools:** Jupyter, Matplotlib, Tableau, DREAM3D, atomman
 
-**More About Me
+### 📈 Selected Highlights
 
-- 🔭 Working on LLM-based research tools & reproducible ML workflows at DLR
-- 🌱 Learning agentic AI design patterns (ReAct, LangGraph) & Cloud technologies
-- 👯 Open to collaborate on RAG/LLM & MLOps projects
-- 🤔 Looking for help with ML/AI Data Engineer roles in Germany
-- 💬 Ask me about materials science, Data, generative ML, or MLOps
+- Reduced experimental data processing time by **35%** at DLR
+  through automated Python and PySpark pipelines.
+- Reduced 3D microstructure design iteration time by **65%**
+  using GANs and VAEs.
+- Reduced manual simulation setup time by **over 30%** at ICAMS
+  through Python automation.
+- Built an LLM-based scientific information retrieval system
+  using LangChain and ChromaDB.
+
+### 🌱 Interests & Current Learning
+
+- Data engineering and cloud-based data pipelines on **AWS**
+- Agentic AI, including **ReAct and LangGraph**
+- RAG applications and LLM-based research tools
+- Reliable, explainable, and reproducible machine learning
+- Generative AI and materials informatics
+
+### 🎓 Education
+
+- **Data Engineering Bootcamp — neue fische** · Ongoing
+- **M.Sc. Materials Science & Simulation** — Ruhr University Bochum
+- **B.E. Metallurgical Engineering** — Andhra University
+
+### 🤝 Let’s Connect
+
+- Previously a **Research Software Engineer at DLR**.
+- Open to collaborating on **data engineering, RAG/LLM, and MLOps projects**.
+- Seeking **Data Engineer and ML/AI Data Engineer roles in Germany**.
+- Happy to discuss materials science, data engineering, generative AI, and MLOps.
+- **Languages:** English · German · Telugu
 
 **📫 Connect**
 [LinkedIn](https://linkedin.com/in/sree-sameer-kumtamukkula-b16784ba) · [GitHub](https://github.com/samk07)
